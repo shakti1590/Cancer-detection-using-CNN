@@ -1,1 +1,1 @@
-# Cancer-detection-using-CNN
+# Cancer-detection-using-Machine-Learning
